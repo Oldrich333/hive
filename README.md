@@ -49,7 +49,7 @@ That's the direction. The product comes first; the manifesto when it's earned.
 If you're building autonomous business operations, agent platforms, context/memory engines, or self-extending agent systems — or running a real business on agents and hitting the same walls we did:
 
 - open an [issue](../../issues) or [discussion](../../discussions) here,
-- or write to **dvorak@oldrich.me**.
+- or reach out on X: [@Oldrich333](https://x.com/Oldrich333).
 
 We're especially interested in comparing notes on: catalog/state architectures for agents, agent self-extension with safety, multi-model adversarial review, and long-horizon goal loops.
 
